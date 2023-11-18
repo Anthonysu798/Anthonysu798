@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anthony Su</h1>
-<h3 align="center">Currently studying Computer Programming Analysis at Seneca College(CPA) A passionate frontend developer from China</h3>
+<h2 align="center">Computer Programming Analysis Student at Seneca College</h2>
+
+---
+
+### 🙋‍♂️ About Me
+I'm currently immersed in my third semester at Seneca College, where I'm pursuing my passion in Computer Programming Analysis (CPA) three year program. 
+
+### 💻 What I'm Focusing On
+- **Learning and Mastery:** Diving deep into programming languages such as Python, Java, and C++. 
+- **Exploring New Tech:** Keeping up with the latest trends in technology.
+- **Practical Applications:** Applying my learning to real-world projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonysu798&label=Profile%20views&color=0e75b6&style=flat" alt="anthonysu798" /> </p>
 
