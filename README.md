@@ -17,7 +17,7 @@ I'm currently immersed in my third semester at Seneca College, where I'm pursuin
 
 - 🌱 I’m currently learning **Javascript, C++, Tailwind CSS, EJS, MongoDB, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://anthonysu.me/index.html](https://anthonysu.me/index.html)
+- 👨‍💻 All of my projects are available at [https://anthonysu.me/](https://anthonysu.me/)
 
 - 📫 How to reach me **anthonysu798.ca@gmail.com**
 
