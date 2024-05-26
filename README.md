@@ -4,7 +4,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-I'm currently immersed in my third semester at Seneca College, where I'm pursuing my passion in Computer Programming Analysis (CPA) three year program. 
+I'm currently immersed in my fifth semester at Seneca College, where I'm pursuing my passion in Computer Programming Analysis (CPA) three year program. 
 
 ### 💻 What I'm Focusing On
 - **Learning and Mastery:** Diving deep into programming languages such as Python, Java, and C++. 
@@ -15,7 +15,7 @@ I'm currently immersed in my third semester at Seneca College, where I'm pursuin
 
 - 🔭 I’m currently working on [Personal Portfolio](https://anthonysu.me/)
 
-- 🌱 I’m currently learning **Javascript, C++, Tailwind CSS, EJS, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Javascript, Next.JS, React.JS, Python, System Design**
 
 - 👨‍💻 All of my projects are available at [https://anthonysu.me/](https://anthonysu.me/)
 
