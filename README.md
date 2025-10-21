@@ -7,7 +7,7 @@
 I'm an AI-first full-stack engineer passionate about **autonomous development workflows**, **multi-agent orchestration**, and **next-generation SaaS infrastructure**.  
 
 Currently graduated **Computer Programming & Analysis** at **Seneca College**, while building real-world AI-powered platforms like  
-🚀 **DeliverKit.app** – automated digital-goods delivery platform powered by Supabase, Next.js 15, Stripe Connect, and Claude Code.  
+🚀 **DeliverKit.app (sass)** – automated digital-goods delivery platform powered by Supabase, Next.js 15, Stripe Connect, and Claude Code.  
 
 ---
 
